@@ -1,0 +1,21 @@
+﻿  源.cpp
+c:\users\wxw\documents\visual studio 2013\projects\习题课&作业\摩根\project8\源.cpp(69): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\users\wxw\documents\visual studio 2013\projects\习题课&作业\摩根\project8\源.cpp(93): warning C4244: “=”: 从“float”转换到“clock_t”，可能丢失数据
+c:\users\wxw\documents\visual studio 2013\projects\习题课&作业\摩根\project8\源.cpp(180): warning C4244: “=”: 从“float”转换到“clock_t”，可能丢失数据
+c:\users\wxw\documents\visual studio 2013\projects\习题课&作业\摩根\project8\源.cpp(357): warning C4244: “=”: 从“float”转换到“clock_t”，可能丢失数据
+c:\users\wxw\documents\visual studio 2013\projects\习题课&作业\摩根\project8\源.cpp(436): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\wxw\documents\visual studio 2013\projects\习题课&作业\摩根\project8\源.cpp(527): warning C4244: “=”: 从“float”转换到“clock_t”，可能丢失数据
+c:\users\wxw\documents\visual studio 2013\projects\习题课&作业\摩根\project8\源.cpp(418): warning C4101: “t_start”: 未引用的局部变量
+c:\users\wxw\documents\visual studio 2013\projects\习题课&作业\摩根\project8\源.cpp(418): warning C4101: “t_end”: 未引用的局部变量
+c:\users\wxw\documents\visual studio 2013\projects\习题课&作业\摩根\project8\源.cpp(626): warning C4244: “=”: 从“float”转换到“clock_t”，可能丢失数据
+c:\users\wxw\documents\visual studio 2013\projects\习题课&作业\摩根\project8\源.cpp(628): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\wxw\documents\visual studio 2013\projects\习题课&作业\摩根\project8\源.cpp(649): warning C4244: “=”: 从“float”转换到“clock_t”，可能丢失数据
+c:\users\wxw\documents\visual studio 2013\projects\习题课&作业\摩根\project8\源.cpp(279): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+          c:\users\wxw\documents\visual studio 2013\projects\习题课&作业\摩根\project8\源.cpp(512): 参见对正在编译的函数 模板 实例化“void printOrder<Order>(T &,int,std::ofstream &)”的引用
+          with
+          [
+              T=Order
+          ]
+c:\users\wxw\documents\visual studio 2013\projects\习题课&作业\摩根\project8\源.cpp(280): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\wxw\documents\visual studio 2013\projects\习题课&作业\摩根\project8\源.cpp(281): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Project8.vcxproj -> C:\Users\wxw\Documents\Visual Studio 2013\Projects\习题课&作业\摩根\Debug\Project8.exe

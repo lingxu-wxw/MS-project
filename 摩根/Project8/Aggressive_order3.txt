@@ -1,0 +1,9 @@
+NASDAQ,Ask,AAPL,3300,153.99
+NYSE,Ask,AAPL,2400,153.85
+
+Order 3
+Total_quantity: 10000
+Average_price: 153.617
+Done!
+
+Do not need to split!

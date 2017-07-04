@@ -1,0 +1,240 @@
+Total
+09:00-09:30
+Average price: 12.464	Total_quantity: 47640	0.0672274%
+09:30-10:00
+Average price: 12.5033	Total_quantity: 45240	0.0638406%
+10:00-10:30
+Average price: 12.4916	Total_quantity: 57650	0.081353%
+10:30-11:00
+Average price: 12.5183	Total_quantity: 50280	0.0709528%
+11:00-11:30
+Average price: 12.5079	Total_quantity: 61210	0.0863767%
+11:30-12:00
+Average price: 12.4997	Total_quantity: 47050	0.0663948%
+12:00-12:30
+Average price: 12.5141	Total_quantity: 50290	0.0709669%
+12:30-13:00
+Average price: 12.4599	Total_quantity: 50890	0.0718136%
+13:00-13:30
+Average price: 12.5362	Total_quantity: 50070	0.0706565%
+13:30-14:00
+Average price: 12.4439	Total_quantity: 48450	0.0683704%
+14:00-14:30
+Average price: 12.5377	Total_quantity: 52200	0.0736622%
+14:30-15:00
+Average price: 12.4751	Total_quantity: 48080	0.0678483%
+15:00-15:30
+Average price: 12.483	Total_quantity: 57970	0.0818046%
+15:30-16:00
+Average price: 12.4939	Total_quantity: 41620	0.0587322%
+
+Monday
+09:00-09:30
+Average price: 12.5128	Total_quantity: 7420	0.0757143%
+09:30-10:00
+Average price: 12.5393	Total_quantity: 8090	0.082551%
+10:00-10:30
+Average price: 12.6028	Total_quantity: 8720	0.0889796%
+10:30-11:00
+Average price: 12.5147	Total_quantity: 7690	0.0784694%
+11:00-11:30
+Average price: 12.5477	Total_quantity: 7500	0.0765306%
+11:30-12:00
+Average price: 12.5671	Total_quantity: 4990	0.0509184%
+12:00-12:30
+Average price: 12.4432	Total_quantity: 6390	0.0652041%
+12:30-13:00
+Average price: 12.3072	Total_quantity: 6400	0.0653061%
+13:00-13:30
+Average price: 12.6568	Total_quantity: 7950	0.0811224%
+13:30-14:00
+Average price: 12.4481	Total_quantity: 6070	0.0619388%
+14:00-14:30
+Average price: 12.6674	Total_quantity: 8870	0.0905102%
+14:30-15:00
+Average price: 12.578	Total_quantity: 4750	0.0484694%
+15:00-15:30
+Average price: 12.3858	Total_quantity: 7310	0.0745918%
+15:30-16:00
+Average price: 12.4928	Total_quantity: 5850	0.0596939%
+
+Tuesday
+09:00-09:30
+Average price: 12.6122	Total_quantity: 4240	0.0492279%
+09:30-10:00
+Average price: 12.3568	Total_quantity: 4340	0.0503889%
+10:00-10:30
+Average price: 12.5543	Total_quantity: 6920	0.0803437%
+10:30-11:00
+Average price: 12.3815	Total_quantity: 5410	0.062812%
+11:00-11:30
+Average price: 12.5141	Total_quantity: 5720	0.0664112%
+11:30-12:00
+Average price: 12.564	Total_quantity: 6500	0.0754673%
+12:00-12:30
+Average price: 12.421	Total_quantity: 8310	0.0964821%
+12:30-13:00
+Average price: 12.4262	Total_quantity: 7970	0.0925345%
+13:00-13:30
+Average price: 12.4454	Total_quantity: 7240	0.084059%
+13:30-14:00
+Average price: 12.5638	Total_quantity: 6020	0.0698943%
+14:00-14:30
+Average price: 12.6375	Total_quantity: 7820	0.090793%
+14:30-15:00
+Average price: 12.5852	Total_quantity: 4890	0.0567746%
+15:00-15:30
+Average price: 12.5512	Total_quantity: 4930	0.0572391%
+15:30-16:00
+Average price: 12.3965	Total_quantity: 5820	0.0675723%
+
+Wednesday
+09:00-09:30
+Average price: 12.3316	Total_quantity: 12850	0.0894847%
+09:30-10:00
+Average price: 12.4709	Total_quantity: 7500	0.0522284%
+10:00-10:30
+Average price: 12.491	Total_quantity: 11130	0.077507%
+10:30-11:00
+Average price: 12.461	Total_quantity: 11550	0.0804318%
+11:00-11:30
+Average price: 12.4476	Total_quantity: 12120	0.0844011%
+11:30-12:00
+Average price: 12.5327	Total_quantity: 7150	0.0497911%
+12:00-12:30
+Average price: 12.4054	Total_quantity: 9640	0.0671309%
+12:30-13:00
+Average price: 12.5556	Total_quantity: 9550	0.0665042%
+13:00-13:30
+Average price: 12.5008	Total_quantity: 10910	0.0759749%
+13:30-14:00
+Average price: 12.4618	Total_quantity: 8440	0.0587744%
+14:00-14:30
+Average price: 12.5103	Total_quantity: 9190	0.0639972%
+14:30-15:00
+Average price: 12.4868	Total_quantity: 11430	0.0795961%
+15:00-15:30
+Average price: 12.4602	Total_quantity: 14980	0.104318%
+15:30-16:00
+Average price: 12.5195	Total_quantity: 7160	0.0498607%
+
+Thursday
+09:00-09:30
+Average price: 12.5646	Total_quantity: 6020	0.0656345%
+09:30-10:00
+Average price: 12.514	Total_quantity: 4480	0.0488443%
+10:00-10:30
+Average price: 12.4255	Total_quantity: 10130	0.110445%
+10:30-11:00
+Average price: 12.7502	Total_quantity: 3780	0.0412124%
+11:00-11:30
+Average price: 12.4542	Total_quantity: 9740	0.106193%
+11:30-12:00
+Average price: 12.509	Total_quantity: 5040	0.0549498%
+12:00-12:30
+Average price: 12.5904	Total_quantity: 7600	0.0828609%
+12:30-13:00
+Average price: 12.5112	Total_quantity: 7850	0.0855866%
+13:00-13:30
+Average price: 12.4485	Total_quantity: 8740	0.09529%
+13:30-14:00
+Average price: 12.3622	Total_quantity: 6200	0.067597%
+14:00-14:30
+Average price: 12.3583	Total_quantity: 4490	0.0489533%
+14:30-15:00
+Average price: 12.3842	Total_quantity: 4620	0.0503707%
+15:00-15:30
+Average price: 12.5347	Total_quantity: 7190	0.0783908%
+15:30-16:00
+Average price: 12.4149	Total_quantity: 5840	0.063672%
+
+Friday
+09:00-09:30
+Average price: 12.348	Total_quantity: 4120	0.0429659%
+09:30-10:00
+Average price: 12.3684	Total_quantity: 4770	0.0497445%
+10:00-10:30
+Average price: 12.4948	Total_quantity: 7770	0.0810303%
+10:30-11:00
+Average price: 12.6866	Total_quantity: 7480	0.078006%
+11:00-11:30
+Average price: 12.6235	Total_quantity: 7680	0.0800918%
+11:30-12:00
+Average price: 12.4319	Total_quantity: 7700	0.0803003%
+12:00-12:30
+Average price: 12.5764	Total_quantity: 7800	0.0813432%
+12:30-13:00
+Average price: 12.6544	Total_quantity: 4210	0.0439045%
+13:00-13:30
+Average price: 12.7248	Total_quantity: 5480	0.0571488%
+13:30-14:00
+Average price: 12.372	Total_quantity: 8900	0.0928147%
+14:00-14:30
+Average price: 12.57	Total_quantity: 8200	0.0855147%
+14:30-15:00
+Average price: 12.5421	Total_quantity: 6500	0.067786%
+15:00-15:30
+Average price: 12.5156	Total_quantity: 10770	0.112316%
+15:30-16:00
+Average price: 12.6704	Total_quantity: 4510	0.0470331%
+
+Saturday
+09:00-09:30
+Average price: 12.6563	Total_quantity: 7340	0.0793428%
+09:30-10:00
+Average price: 12.5499	Total_quantity: 8290	0.0896119%
+10:00-10:30
+Average price: 12.4548	Total_quantity: 7780	0.084099%
+10:30-11:00
+Average price: 12.5256	Total_quantity: 6070	0.0656145%
+11:00-11:30
+Average price: 12.5922	Total_quantity: 9020	0.097503%
+11:30-12:00
+Average price: 12.5199	Total_quantity: 6900	0.0745865%
+12:00-12:30
+Average price: 12.615	Total_quantity: 5640	0.0609664%
+12:30-13:00
+Average price: 12.397	Total_quantity: 5240	0.0566425%
+13:00-13:30
+Average price: 12.5388	Total_quantity: 4600	0.0497244%
+13:30-14:00
+Average price: 12.4228	Total_quantity: 7620	0.0823695%
+14:00-14:30
+Average price: 12.5466	Total_quantity: 4670	0.050481%
+14:30-15:00
+Average price: 12.4105	Total_quantity: 8300	0.08972%
+15:00-15:30
+Average price: 12.4603	Total_quantity: 5850	0.0632364%
+15:30-16:00
+Average price: 12.5678	Total_quantity: 5190	0.056102%
+
+Sunday
+09:00-09:30
+Average price: 12.3174	Total_quantity: 5650	0.0560571%
+09:30-10:00
+Average price: 12.6061	Total_quantity: 7770	0.077091%
+10:00-10:30
+Average price: 12.4022	Total_quantity: 5200	0.0515924%
+10:30-11:00
+Average price: 12.4279	Total_quantity: 8300	0.0823494%
+11:00-11:30
+Average price: 12.4304	Total_quantity: 9430	0.0935609%
+11:30-12:00
+Average price: 12.4251	Total_quantity: 8770	0.0870126%
+12:00-12:30
+Average price: 12.6442	Total_quantity: 4910	0.0487152%
+12:30-13:00
+Average price: 12.4018	Total_quantity: 9670	0.0959421%
+13:00-13:30
+Average price: 12.4982	Total_quantity: 5150	0.0510963%
+13:30-14:00
+Average price: 12.5226	Total_quantity: 5200	0.0515924%
+14:00-14:30
+Average price: 12.4059	Total_quantity: 8960	0.0888977%
+14:30-15:00
+Average price: 12.3906	Total_quantity: 7590	0.0753051%
+15:00-15:30
+Average price: 12.5015	Total_quantity: 6940	0.068856%
+15:30-16:00
+Average price: 12.4489	Total_quantity: 7250	0.0719317%
+
